@@ -24,7 +24,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_layer {
+        Alpha {
             // ------------------------------------------------------------------------------------------------------------
             // |  ESC  |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   `   |
             // |  TAB  |  Q  |  W  |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   |   -   |
@@ -58,8 +58,8 @@
 &none           &none           &none         &none                 &none   &none   &kp DELETE    &none  &none   &none   &kp NUBS  &kp LS(NUBS)  &none     &none
                                               &none                 &none   &none   &none         &none  &none   &none   &none
             >;
-            
-            display-name = "Alpha";
+
+            display-name = "Extras";
         };
 
         Settings {
