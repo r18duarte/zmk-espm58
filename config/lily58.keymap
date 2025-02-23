@@ -40,7 +40,7 @@
                            &kp RIGHT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp RET           &kp BACKSPACE  &mo 2   &kp RGUI
             >;
 
-            display-name = "Alpha"
+            display-name = "Alpha";
         };
 
         Extras {
@@ -59,7 +59,7 @@
                                               &none            &none   &none   &none         &none  &none   &none   &trans
             >;
 
-            display-name = "Extra"
+            display-name = "Extra";
         };
 
         Settings {
@@ -79,7 +79,7 @@
             >;
         };
 
-        display-name = "Settings"
+        display-name = "Settings";
     };
 };
 
