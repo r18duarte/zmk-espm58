@@ -84,5 +84,8 @@
 
         extra5 { status = "reserved"; };
     };
-    
+};
+
+&led_strip {
+    chain-length = <36>;
 };
