@@ -79,7 +79,7 @@
             >;
         };
 
-        display-name = "Settings";
+        display-name = "Sett";
     };
 };
 
